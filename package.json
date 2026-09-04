@@ -1,7 +1,7 @@
 {
   "name": "cmds-auto-broker",
   "version": "1.0.0",
-  "description": "CMDS AUTO BROKER - Premium Transport & Vehicle Solutions Platform",
+  "description": "CMDS AUTO BROKER - We Check. We Broker. We Move. You Profit.",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "next": "^14.0.0",
+    "next": "^14.2.35",
     "tailwindcss": "^3.3.0",
     "postcss": "^8.4.31",
     "autoprefixer": "^10.4.16",
@@ -20,10 +20,8 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "tailwind-merge": "^2.2.0",
-    "@supabase/supabase-js": "^2.38.0",
     "lucide-react": "^0.294.0",
-    "react-icons": "^4.12.0",
-    "zustand": "^4.4.0"
+    "react-icons": "^4.12.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
